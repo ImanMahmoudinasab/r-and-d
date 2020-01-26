@@ -7,3 +7,8 @@ Run `npx webpack`, which will take our script at `src/index.js` as the entry poi
 Run with a config: `npx webpack --config webpack.config.js`
 
 By adding `"build":"webpack"` to scripts, the `npm run build` command can be used in place of the `npx` command.
+
+## Cypress
+
+### Opening Cypress
+Run this command to open the Cypress: `npx cypress open`
