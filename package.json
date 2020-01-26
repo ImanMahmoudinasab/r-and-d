@@ -4,6 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
+    "start": "webpack-dev-server",
     "test": "cypress run --headless",
     "cy:run": "cypress run",
     "build": "webpack",
