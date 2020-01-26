@@ -11,4 +11,5 @@ By adding `"build":"webpack"` to scripts, the `npm run build` command can be use
 ## Cypress
 
 ### Opening Cypress
-Run this command to open the Cypress: `npx cypress open`
+Run this command to open the Cypress: `npx cypress open`.
+By adding `"cypress:open": "cypress open"` to `package.json` now you can run `npm run cypress:open`.
