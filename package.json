@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ImanMahmoudinasab/r-and-d#readme",
   "devDependencies": {
-    "cypress": "^3.8.3",
+    "cypress": "^8.3.1",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
